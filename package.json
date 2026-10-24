@@ -8,6 +8,6 @@
     "test": "node --test"
   },
   "dependencies": {
-    "lru-cache": "^6.0.0"
+    "lru-cache": "^11.5.3"
   }
 }
