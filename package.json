@@ -1,0 +1,13 @@
+{
+  "name": "dependabot-review-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Throwaway repo for testing the dependabot-review job end to end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "lru-cache": "^6.0.0"
+  }
+}
